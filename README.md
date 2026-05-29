@@ -96,4 +96,4 @@ The `sql_and_notes` folder contains:
 ---
 
 ## Author
-Ravi Pandya
+Junior Data Analyst Portfolio Project
